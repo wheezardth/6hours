@@ -116,7 +116,7 @@ dmypy.json
 # Pycharm Stuff
 +.idea/
 +.idea\
-.idea/6hours.iml
-.idea/6hours.iml
-.idea/misc.xml
-.idea/workspace.xml
+.idea\6hours.iml
+.idea\6hours.iml
+.idea\misc.xml
+.idea\workspace.xml
